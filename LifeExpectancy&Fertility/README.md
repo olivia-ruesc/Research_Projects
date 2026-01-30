@@ -2,8 +2,8 @@
 
 **Author:** Olivia Rueschhoff  
 **Faculty Mentors:**  
-- Dr. Dinesh Ekanyake  
-- Dr. Amy Ekanyake  
+- Dr. Dinesh Ekanayake  
+- Dr. Amy Ekanayake  
 
 ---
 
