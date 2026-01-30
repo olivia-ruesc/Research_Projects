@@ -4,6 +4,7 @@
 This project investigates the relationship between **daily maximum temperature** and **traffic vehicle volume** in **Chicago** using statistical and graphical methods. The goal is to explore whether temperature has a measurable association with traffic volume and to assess the strength and nature of that relationship.
 
 The analysis combines exploratory data analysis, distribution diagnostics, correlation measures, and visualization techniques implemented in **R**.
+
 This paper was published in the Heartland Review Journal which can be viewed at https://heartlandreview.wixsite.com/heartland-review/stem
 ---
 
