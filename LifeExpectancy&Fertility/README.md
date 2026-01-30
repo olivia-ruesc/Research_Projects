@@ -40,6 +40,8 @@ Core materials from this stage are located in the main project directories and i
 - Python analysis code
 - Research presentation slides
 
+Also included is the Poster Presentation of the research slides which was given to the Mathematics Department to promote department research. 
+
 ---
 
 ## Undergraduate Paper Disclaimer
@@ -57,6 +59,10 @@ Core materials from this stage are located in the main project directories and i
 **Undergraduate Research Spring 2025**
 
 This work was awarded **1st Place in Podium Presentations** at the Undergraduate Research Spring 2025 conference, recognizing both the technical depth and clarity of presentation of the research.
+
+**Best in Department - Poster Presentation**
+**Undergraduate Research Spring 2024**
+The work done in the undergraduate folder was awarded **Best in Department** at the Undergraduate Research Spring 2025 conference, recognizing the projects potential and important analysis of real world data.
 
 ---
 
