@@ -5,7 +5,10 @@
 
 ---
 
-## Purpose
+## Project Overview
+
+This repository contains a project conducted in Fall 2024 to show how linear algebra can be used for data analysis in python.
+
 The purpose of this project is to try and estimate student GPA based off of several variables being:
 - Average hours spent sleeping per day
 - Average hours spent socializing per day
@@ -13,6 +16,14 @@ The purpose of this project is to try and estimate student GPA based off of seve
 - Average hours spent on phone per day
 - An overall satisfaction rating of the university
 
-This project was done to demonstrait the ability to use linear algebra in Python to conduct real research. 
+This project was then presented to the Mathematics Department at Western Illinois University.
 
+---
 
+## Skills Used
+
+This project took the following skills:
+- Python coding
+- Numpy, Pandas, and Matplotlib
+- Matrix manipulation
+- Interpreting Data
