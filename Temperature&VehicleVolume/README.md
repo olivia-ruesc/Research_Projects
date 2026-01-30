@@ -6,6 +6,7 @@ This project investigates the relationship between **daily maximum temperature**
 The analysis combines exploratory data analysis, distribution diagnostics, correlation measures, and visualization techniques implemented in **R**.
 
 This paper was published in the Heartland Review Journal which can be viewed at https://heartlandreview.wixsite.com/heartland-review/stem
+This project was also presented at Western Illinois University's Undergraduate Research Day 2025 and won first in Department.
 ---
 
 ## Author
@@ -53,7 +54,9 @@ Detailed results and interpretation are provided in the accompanying paper.
 
 ### Notes
 
-This project was completed as part of an undergraduate statistics course and is intended to demonstrate applied statistical analysis, exploratory data techniques, and clear interpretation of results.
+This project was completed as part of an undergraduate statistics course and is intended to demonstrate applied statistical analysis, exploratory data techniques, and clear interpretation of results. 
+
+You can view the R-code used to make this project, the paper itself, and the poster that was presented at the WIU Undergraduate Research Day 2025 and won Best in Department. 
 
 ## Sources
 Chicago Department of Transportation. (n.d.). Average daily traffic counts. City of Chicago. 
