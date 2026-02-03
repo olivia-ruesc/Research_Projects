@@ -1,6 +1,6 @@
 # Research Projects
 
-This repository contains a  collection of academic-style data analysis projects completed using Python, R, and statistical modeling techniques. Each project explores a real dataset, applies appropriate analytical methods, and communicates findings through clear visualizations, written reports, and presentation materials.  
+This repository contains a  collection of academic data analysis and data science projects completed using Python, R, and statistical modeling techniques. Each project explores a real dataset, applies appropriate analytical methods, and communicates findings through clear visualizations, written reports, and presentation materials.  
 
 These projects were developed through university and independent research, and they demonstrate my ability to work with real-world data, evaluate statistical models, and present results in a professional, reproducible format.
 
